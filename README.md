@@ -1,4 +1,4 @@
-# Awesome data science for concrete materials and structures
+<img width="455" height="70" alt="image" src="https://github.com/user-attachments/assets/04660ca0-3842-4d3f-a8a8-df4d85aa90fe" /># Awesome data science for concrete materials and structures
 
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
@@ -26,7 +26,7 @@ The project is supported by:
 - [📚 Publications](#-publications)
 - [🧱 Data Structures](#-data-structures)
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
-- [📏 Standards & Benchmarks](#-standards--benchmarks)
+- [📏 Standardization Initiatives](#-Standardization--Initiatives)
 - [📘 Educational Resources](#-educational-resources)
 - [📁 Similar Compilations](#-similar-compilations)
 - [📄 License](#-license)
@@ -67,7 +67,7 @@ The project is supported by:
 
 ---
 
-## 📏 Standards & Benchmarks
+## 📏 Standardization Initiatives
 
 - [XXXX](https://example.com) – Community benchmark for crack detection tasks.
 - [XXXX](https://example.com) – Draft standards under review.
