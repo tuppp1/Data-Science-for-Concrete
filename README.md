@@ -35,8 +35,7 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 
 ## 🔧 Tools & Software
 
-- **[XXXX](https://example.com)** - Python-based toolkit for concrete property prediction. **Python**.
-- **[XXXX](https://example.com)** - Deep learning model for automated crack segmentation. **Python**.
+- **GitHub - BAMresearch/WEBSLAMD: Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
 
 ---
 
