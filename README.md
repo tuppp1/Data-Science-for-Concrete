@@ -35,7 +35,7 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 
 ## 🔧 Tools & Software
 
-- **GitHub - BAMresearch/WEBSLAMD: Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
+-  **[BAMresearch/WEBSLAMD](https://github.com/BAMresearch/SequentialLearningApp)**: Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
 
 ---
 
