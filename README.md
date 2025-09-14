@@ -1,8 +1,8 @@
 # Awesome data science for concrete materials and structures
 
-A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
+Building on empiricism, theory, and computation, a new paradigm has emerged in concrete science—data-driven approaches—offering fresh perspectives and practical solutions to better understand the materials - process–structure–property–performance relationships in concrete materials and structures.
 
-> This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributions](#-contributions) for details.
+> Contributions are welcome—see [Contributions](#-contributions) for details.
 > 
 The project is supported by:
 **RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
