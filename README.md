@@ -1,4 +1,4 @@
-# Awesome AI/ML for Concrete Materials and Structures
+# Awesome data science for concrete materials and structures
 
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
