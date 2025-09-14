@@ -1,6 +1,6 @@
 # Awesome data science for concrete materials and structures
 
-Building on empiricism, theory, and computation, a new paradigm has emerged in concrete science—data-driven approaches—offering fresh perspectives and practical solutions to better understand the materials - process–structure–property–performance relationships in concrete materials and structures.
+Building on empiricism, theory, and computation, a new paradigm has emerged in concrete science — data-driven approaches, offering fresh perspectives and practical solutions to better understand the materials, process–structure–property–performance relationships in concrete materials and structures.
 
 > Contributions are very welcome — please  follow the guidelines [Contributions](#-contributions) for details.
 > 
