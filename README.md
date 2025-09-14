@@ -97,8 +97,6 @@ The project is supported by:
 
 ## 🤝 Contributions
 
-Contributing Guidelines
-
 We welcome community contributions!  
 
 Please see our detailed [Contribution Guidelines](CONTRIBUTING.md).
