@@ -41,7 +41,7 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 
 ## 📊 Datasets
 
-- **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks. **Dataset**.
+- **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks.
 
 ---
 
