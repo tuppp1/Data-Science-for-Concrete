@@ -57,27 +57,27 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 
 ## 🧱 Data Structures
 
-- Guidelines for structuring material datasets in ML pipelines (e.g., hierarchical labeling, metadata standards).
+-  XXX.
 
 ---
 
 ## 📓 Electronic Lab Notebooks
 
-- [XXXX](https://example.com) – Digital lab notebook adapted for concrete experiments.
+- [XXXX](https://example.com) – XXX.
 
 ---
 
 ## 📏 Standardization Initiatives
 
-- [XXXX](https://example.com) – Community benchmark for crack detection tasks.
-- [XXXX](https://example.com) – Draft standards under review.
+- [XXXX](https://example.com) – XXX.
+- [XXXX](https://example.com) – XXX.
 
 ---
 
 ## 📘 Educational Resources
 
-- [XXXX](https://example.com) – Free online course by University X.
-- [XXXX](https://example.com) – Tutorial series on YouTube.
+- [XXXX](https://example.com) – XXX.
+- [XXXX](https://example.com) – XXX.
 
 ---
 
@@ -90,8 +90,8 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 
 ## 📁 Similar Compilations
 
-- [XXXX](https://example.com)
-- [XXXX](https://example.com)
+- [XXXX](https://example.com) – XXX.
+- [XXXX](https://example.com) – XXX.
 
 ---
 
