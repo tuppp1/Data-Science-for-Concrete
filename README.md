@@ -28,7 +28,7 @@ The project is supported by:
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
 - [📏 Standardization Initiatives](#-standardization-initiatives)
 - [📘 Educational Resources](#-educational-resources)
-- [🧪 Benchmarks (if available)](#-benchmarks-if-available)
+- [🧪 Benchmarks](#-benchmarks)
 - [📁 Similar Compilations](#-similar-compilations)
 - [📄 License](#-license)
 
