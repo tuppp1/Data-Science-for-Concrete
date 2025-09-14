@@ -79,6 +79,7 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 - [XXXX](https://example.com) – Free online course by University X.
 - [XXXX](https://example.com) – Tutorial series on YouTube.
 
+---
 
 ### 🧪 Benchmarks
 
