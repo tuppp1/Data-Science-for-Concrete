@@ -1,4 +1,4 @@
-<img width="455" height="70" alt="image" src="https://github.com/user-attachments/assets/04660ca0-3842-4d3f-a8a8-df4d85aa90fe" /># Awesome data science for concrete materials and structures
+# Awesome data science for concrete materials and structures
 
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
