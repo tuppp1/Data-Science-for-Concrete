@@ -101,6 +101,8 @@ We welcome community contributions!
 
 Please see our detailed [Contribution Guidelines](CONTRIBUTING.md).
 
+---
+
 ## 📄 LICENSE
 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) – You are free to share and adapt the content with proper attribution.
