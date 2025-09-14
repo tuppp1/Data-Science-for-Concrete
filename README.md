@@ -42,7 +42,6 @@ Target audience: researchers, students, and practitioners in civil/materials eng
 ## 📊 Datasets
 
 - **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks. **Dataset**.
-- **[HRCDS](https://data.mendeley.com/datasets/6x4dzzrs2h/1)** - High-resolution concrete damage segmentation dataset for training and evaluating crack detection models. **Dataset**.
 
 ---
 
