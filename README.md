@@ -26,7 +26,7 @@ The project is supported by:
 - [📚 Publications](#-publications)
 - [🧱 Data Structures](#-data-structures)
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
-- [📏 Standardization Initiatives](#-Standardization--Initiatives)
+- [📏 Standardization Initiatives](#-standardization-initiatives)
 - [📘 Educational Resources](#-educational-resources)
 - [📁 Similar Compilations](#-similar-compilations)
 - [📄 License](#-license)
