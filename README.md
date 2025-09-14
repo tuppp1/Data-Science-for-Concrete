@@ -3,7 +3,9 @@
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
 > This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributions](#-contributions) for details.
-
+> 
+The project is supported by:
+**RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
 ---
 ## 📌 Scope
 
@@ -13,9 +15,6 @@ This list focuses on the intersection of:
 - Applications such as damage assessment, crack detection, performance prediction, and more
 
 Target audience: researchers, students, and practitioners in civil/materials engineering and data science.
-
-The project is supported by:
-**RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
 
 ---
 
