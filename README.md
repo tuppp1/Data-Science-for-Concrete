@@ -15,7 +15,7 @@ This list focuses on the intersection of:
 Target audience: researchers, students, and practitioners in civil/materials engineering and data science.
 
 The project is supported by:
-**RILEM TC 315-DCS**;
+**RILEM TC 315-DCS**; **ACI 135**; **ACF TC AICE**; 
 
 ---
 
