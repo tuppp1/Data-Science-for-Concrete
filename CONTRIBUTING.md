@@ -1,4 +1,4 @@
-# Contributing Guidelines
+# Contributions Guidelines
 
 We welcome contributions to make this list better! Please follow these rules:
 
