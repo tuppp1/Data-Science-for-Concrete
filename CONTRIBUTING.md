@@ -3,7 +3,7 @@
 We welcome contributions to make this list better! Please follow these rules:
 
 - Search previous suggestions before making a new one, as yours may be a duplicate.
-- Add your links like: [project-name](http://example.com) - A short description ends with a dot.
+- Add your links like: `[project-name](http://example.com)` - A short description ends with a dot.
 - If possible, input the web domain names only, as links to the particular web-pages may expire.
 - Add the main programming language for the software (if known) in bold.
 - Make a remark proprietary if the content is not freely available.
