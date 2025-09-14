@@ -28,6 +28,7 @@ The project is supported by:
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
 - [📏 Standardization Initiatives](#-standardization-initiatives)
 - [📘 Educational Resources](#-educational-resources)
+- [🧪 Benchmarks (if available)](#-benchmarks-if-available)
 - [📁 Similar Compilations](#-similar-compilations)
 - [📄 License](#-license)
 
@@ -75,6 +76,12 @@ The project is supported by:
 ---
 
 ## 📘 Educational Resources
+
+- [XXXX](https://example.com) – Free online course by University X.
+- [XXXX](https://example.com) – Tutorial series on YouTube.
+
+
+### 🧪 Benchmarks
 
 - [XXXX](https://example.com) – Free online course by University X.
 - [XXXX](https://example.com) – Tutorial series on YouTube.
