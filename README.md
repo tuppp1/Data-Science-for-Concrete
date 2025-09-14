@@ -2,7 +2,7 @@
 
 A curated list of data-driven tools, datasets, publications, and resources for applying artificial intelligence and machine learning in concrete materials science and structural engineering.
 
-> This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributing](#-contributing) for details.
+> This repository is maintained by members of technical committees and contributors from academia and industry. Contributions are welcome—see [Contributions](#-contributions) for details.
 
 ---
 ## 📌 Scope
@@ -95,7 +95,7 @@ The project is supported by:
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributions
 
 Contributing Guidelines
 
