@@ -39,7 +39,7 @@ The project is supported by:
 
 > Peer-reviewed papers and preprints providing context and validation for datasets.
 
-- Cha, Y.J. et al., "Deep learning‐based crack damage detection using convolutional neural networks," *Deep learning‐based crack damage detection using convolutional neural networks*, 2017.  
+- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models," *Data in Brief*, 2025.  
 - Jiang, Y. et al., "A deep learning approach for fast detection and classification of concrete damage," *Automation in Construction*, 2021.
 
 ---
