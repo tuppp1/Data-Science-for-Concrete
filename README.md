@@ -32,6 +32,7 @@ The project is supported by:
 ## 📊 Datasets
 
 - **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks.
+- **[Dacl10k](https://datasetninja.com/dacl10k)** - A labeled dataset of concrete damages.
 
 ---
 
