@@ -13,7 +13,7 @@ The project is supported by:
 
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
-- [📚 Publications (linked to datasets)](#-publications)
+- [📚 Publications](#-publications (linked to datasets))
 - [🧱 Data Structures](#-data-structures)
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
 - [📏 Standardization Initiatives](#-standardization-initiatives)
