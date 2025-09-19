@@ -39,8 +39,9 @@ The project is supported by:
 
 > Peer-reviewed papers and preprints providing context and validation for datasets.
 
-- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models," *Data in Brief*, 2025.  
-- Jiang, Y. et al., "A deep learning approach for fast detection and classification of concrete damage," *Automation in Construction*, 2021.
+- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025.  
+- He, J., et al., "HighRPD: A high-altitude drone dataset of road pavement distress", *Data in Brief*, 2025.
+- Flotzinger, J. et al., "dacl1k: Real-world bridge damage dataset putting open-source data to the test", *Engineering Applications of Artificial Intelligence*, 2024.
 
 ---
 
