@@ -13,7 +13,7 @@ The project is supported by:
 
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
-- [📚 Publications](#-publications)
+- [📚 Publications (linked to datasets)](#-publications)
 - [🧱 Data Structures](#-data-structures)
 - [📓 Electronic Lab Notebooks](#-electronic-lab-notebooks)
 - [📏 Standardization Initiatives](#-standardization-initiatives)
@@ -37,7 +37,7 @@ The project is supported by:
 
 ## 📚 Publications
 
-> Key peer-reviewed papers and preprints.
+> Peer-reviewed papers and preprints providing context and validation for datasets.
 
 - Cha, Y.J. et al., "Deep learning‐based crack damage detection using convolutional neural networks," *Deep learning‐based crack damage detection using convolutional neural networks*, 2017.  
 - Jiang, Y. et al., "A deep learning approach for fast detection and classification of concrete damage," *Automation in Construction*, 2021.
