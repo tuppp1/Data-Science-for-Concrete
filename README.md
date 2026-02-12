@@ -81,25 +81,25 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 Well-designed data structures are fundamental to reproducible, interoperable, and scalable data-driven research in concrete materials and structures.
 The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
-  📊 Tabular Data (CSV, Parquet, SQL)
+-📊 Tabular Data (CSV, Parquet, SQL)
   Standard structured formats for experimental results, mix proportions, mechanical properties, durability indicators, and performance metrics.
 
-  🗂 Hierarchical Data (JSON, XML, HDF5)
+ -🗂 Hierarchical Data (JSON, XML, HDF5)
   Suitable for multi-scale experimental metadata, process–structure–property–performance relationships, and nested laboratory measurements.
 
-  🕸 Graph-Based Representations
+ -🕸 Graph-Based Representations
   Applied to modeling microstructure networks, crack propagation paths, pore connectivity, and material interaction graphs.
 
-  ⏱ Time-Series Data Structures
+ -⏱ Time-Series Data Structures
   Used for structural health monitoring, curing evolution, sensor streams, and long-term infrastructure performance tracking.
 
-  🖼 Image & Volumetric Data (PNG, TIFF, DICOM, 3D stacks)
+ -🖼 Image & Volumetric Data (PNG, TIFF, DICOM, 3D stacks)
   Essential for crack detection, SEM imaging, X-ray CT analysis, and computer vision workflows.
 
-  📚 Ontologies & Semantic Data Models
+  -📚 Ontologies & Semantic Data Models
   Controlled vocabularies and structured metadata schemas supporting interoperability, FAIR data principles, and cross-laboratory consistency.
 
-  🧩 Materials Informatics Schemas
+  -🧩 Materials Informatics Schemas
   Emerging standardized data models aligned with open science initiatives, digital twins, and automated ML pipelines.
 
 ---
