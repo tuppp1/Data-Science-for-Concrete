@@ -10,7 +10,8 @@ The project is supported by:
 ---
 
 ## 📂 Contents
-
+- [🚀 Getting Started](#-getting-started)
+  
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
 - [📚 Publications](#-publications) *(linked to datasets)*
