@@ -114,7 +114,7 @@ The following formats and conceptual frameworks are commonly used in materials i
 
 ## 📏 Standardization Initiatives
 
-- At present, there are no dedicated or standalone standards or specifications worldwide specifically for the application of machine learning in concrete engineering.
+At present, there are no dedicated or standalone standards or specifications worldwide specifically for the application of machine learning in concrete engineering.
 
 ---
 
