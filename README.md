@@ -113,8 +113,8 @@ To ensure transparency and long-term sustainability, the following development d
 
 ## 📁 Similar Compilations
 
-- [XXXX](https://example.com) – XXX.
-- [XXXX](https://example.com) – XXX.
+- [Awesome Materials Informatics](https://github.com/tilde-lab/awesome-materials-informatics) – A curated collection of tools, datasets, and research resources for applying data science and machine learning to materials discovery and design.
+- [Awesome Civil Engineering](https://github.com/QuantumNovice/awesome-civil-engineering) – A curated compilation of open-source tools, datasets, standards, and learning resources across the civil engineering domain.
 
 ---
 
