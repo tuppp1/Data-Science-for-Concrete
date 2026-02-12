@@ -8,10 +8,9 @@ The project is supported by:
 **RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
 
 ---
-
-## 📂 Contents
 - [🚀 Getting Started](#-getting-started)
-- - [🎓 Tutorials & Example Workflows](#-tutorials--example-workflows)
+- [🎓 Tutorials & Example Workflows](#-tutorials--example-workflows)
+## 📂 Contents
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
 - [📚 Publications](#-publications) *(linked to datasets)*
@@ -21,7 +20,7 @@ The project is supported by:
 - [📘 Educational Resources](#-educational-resources)
 - [🧪 Benchmarks](#-benchmarks)
 - [📁 Similar Compilations](#-similar-compilations)
-- - [🧭 Roadmap](#-roadmap)
+- [🧭 Roadmap](#-roadmap)
 - [📄 License](#-license)
 ---
 
@@ -50,7 +49,10 @@ If you would like to add new entries, please follow the guidelines in:
 👉 Please see our detailed [Contribution Guidelines](CONTRIBUTION.md))
 
 ---
+## 🎓 Tutorials & Example Workflows
 
+This section provides step-by-step tutorials and practical workflows demonstrating how to use datasets and tools listed in this repository.
+---
 ## 🔧 Tools & Software
 
 -  **[BAMresearch/WEBSLAMD](https://github.com/BAMresearch/SequentialLearningApp)**: Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
