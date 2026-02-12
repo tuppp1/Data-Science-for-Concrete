@@ -27,9 +27,7 @@ The project is supported by:
 ## 🚀 Getting Started
 
 Welcome to **Awesome Data Science for Concrete Materials and Structures**!
-
 If you are new to this repository, here is a quick guide to help you get started:
-
 ### 1️⃣ Explore the Categories
 Browse the main sections:
 - 🔧 Tools & Software
@@ -52,7 +50,8 @@ If you would like to add new entries, please follow the guidelines in:
 ## 🎓 Tutorials & Example Workflows
 
 This section provides step-by-step tutorials and practical workflows demonstrating how to use datasets and tools listed in this repository.
----
+
+
 ## 🔧 Tools & Software
 
 -  **[BAMresearch/WEBSLAMD](https://github.com/BAMresearch/SequentialLearningApp)**: Sequential Learning App for Materials Discovery ("SLAMD") - Web Version
@@ -102,12 +101,14 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 ---
 
-### 🧪 Benchmarks
+## 🧪 Benchmarks
 
 - [XXXX](https://example.com) – XXX.
 - [XXXX](https://example.com) – XXX.
 
 ---
+## 🧭 Roadmap
+To ensure transparency and long-term sustainability, the following development directions are planned:
 
 ## 📁 Similar Compilations
 
