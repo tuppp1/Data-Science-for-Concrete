@@ -128,8 +128,6 @@ The following formats and conceptual frameworks are commonly used in materials i
 
 ## 🧪 Benchmarks
 
-## 🧪 Benchmarks
-
 To enable fair comparison, reproducibility, and methodological transparency, benchmark tasks and evaluation protocols are essential in data-driven concrete research.
 
 The following benchmark categories are encouraged:
