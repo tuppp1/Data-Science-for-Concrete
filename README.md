@@ -11,7 +11,6 @@ The project is supported by:
 
 ## 📂 Contents
 - [🚀 Getting Started](#-getting-started)
-  
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
 - [📚 Publications](#-publications) *(linked to datasets)*
@@ -36,26 +35,15 @@ Browse the main sections:
 - 📊 Datasets
 - 📚 Publications
 - 🧪 Benchmarks
-
 Each section contains curated resources relevant to data-driven research in concrete science.
 
-### 2️⃣ Identify Available Resources
-Each entry includes:
-- Project or dataset name
-- Short description
-- Link to the official webpage or repository
-- Programming language (if applicable)
-- Remark on availability (Proprietary / Freely available)
-
-### 3️⃣ How to Use This Repository
-You can:
+### 2️⃣ How to Use This Repository
 - Discover datasets for machine learning
 - Explore open-source tools
 - Find benchmarks for model comparison
 - Access educational materials
 - Contribute your own resources
-
-### 4️⃣ Contributing
+### 3️⃣ Contributing
 If you would like to add new entries, please follow the guidelines in:
 👉 Please see our detailed [Contribution Guidelines](CONTRIBUTION.md))
 
