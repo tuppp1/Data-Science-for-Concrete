@@ -22,7 +22,44 @@ The project is supported by:
 - [🧪 Benchmarks](#-benchmarks)
 - [📁 Similar Compilations](#-similar-compilations)
 - [📄 License](#-license)
+---
 
+## 🚀 Getting Started
+
+Welcome to **Awesome Data Science for Concrete Materials and Structures**!
+
+If you are new to this repository, here is a quick guide to help you get started:
+
+### 1️⃣ Explore the Categories
+Browse the main sections:
+- 🔧 Tools & Software
+- 📊 Datasets
+- 📚 Publications
+- 🧪 Benchmarks
+
+Each section contains curated resources relevant to data-driven research in concrete science.
+
+### 2️⃣ Identify Available Resources
+Each entry includes:
+- Project or dataset name
+- Short description
+- Link to the official webpage or repository
+- Programming language (if applicable)
+- Remark on availability (Proprietary / Freely available)
+
+### 3️⃣ How to Use This Repository
+You can:
+- Discover datasets for machine learning
+- Explore open-source tools
+- Find benchmarks for model comparison
+- Access educational materials
+- Contribute your own resources
+
+### 4️⃣ Contributing
+If you would like to add new entries, please follow the guidelines in:
+👉 [Contribution Guidelines](CONTRIBUTING.md)
+
+---
 
 ## 🔧 Tools & Software
 
