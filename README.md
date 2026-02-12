@@ -128,8 +128,32 @@ The following formats and conceptual frameworks are commonly used in materials i
 
 ## 🧪 Benchmarks
 
-- [XXXX](https://example.com) – XXX.
-- [XXXX](https://example.com) – XXX.
+## 🧪 Benchmarks
+
+To enable fair comparison, reproducibility, and methodological transparency, benchmark tasks and evaluation protocols are essential in data-driven concrete research.
+
+The following benchmark categories are encouraged:
+
+- **🧱 Compressive Strength Prediction**
+  Standard regression benchmark using publicly available datasets (e.g., UCI Concrete dataset).
+  Recommended metrics: MAE, RMSE, R².
+  Suggested protocol: fixed train/test split or k-fold cross-validation.
+
+- **🕳 Durability & Service-Life Prediction**
+  Tasks including chloride diffusion, carbonation depth, freeze–thaw resistance.
+  Recommended metrics: RMSE, MAPE, uncertainty intervals.
+
+- **🖼 Crack Detection (Image Classification / Segmentation)**
+  Using datasets such as SDNET2018, Crack500, Dacl10k.
+  Recommended metrics: Accuracy, Precision, Recall, F1-score, IoU.
+
+- **📊 Mix Design Optimization**
+  Multi-objective optimization benchmark (strength, cost, CO₂ footprint).
+  Evaluation: Pareto front comparison.
+
+- **🏗 Structural Health Monitoring (Time-Series)**
+  Damage detection or anomaly detection benchmarks.
+  Metrics: ROC-AUC, F1-score, detection latency.
 
 ---
 ## 🧭 Roadmap
