@@ -84,7 +84,10 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 ## 📓 Electronic Lab Notebooks
 
-- [XXXX](https://example.com) – XXX.
+- [eLabFTW](https://www.elabftw.net/) – Open-source electronic lab notebook.
+- [Chemotion ELN](https://chemotion.net/) – Structured lab notebook platform.
+- [LabArchives](https://www.labarchives.com/) – Commercial ELN used in academic labs.
+- [Benchling](https://www.benchling.com/) – Widely used research data management platform.
 
 ---
 
