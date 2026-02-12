@@ -78,21 +78,29 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 ## 🧱 Data Structures
 
-Structured data organization is essential for reproducible and interoperable data-driven research in concrete materials and structures. Below are commonly used data structure formats and frameworks relevant to materials informatics and concrete science:
+Well-designed data structures are fundamental to reproducible, interoperable, and scalable data-driven research in concrete materials and structures.
+The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
-Tabular Data (CSV, Parquet, SQL) – Standard structured format for experimental results, mix proportions, mechanical properties, durability metrics, etc.
+📊 Tabular Data (CSV, Parquet, SQL)
+Standard structured formats for experimental results, mix proportions, mechanical properties, durability indicators, and performance metrics.
 
-Hierarchical Data (JSON, XML, HDF5) – Suitable for storing multi-scale experimental metadata, process–structure–property relationships, and nested laboratory measurements.
+🗂 Hierarchical Data (JSON, XML, HDF5)
+Suitable for multi-scale experimental metadata, process–structure–property–performance relationships, and nested laboratory measurements.
 
-Graph-Based Representations – Used for modeling microstructure networks, crack propagation paths, and material interaction graphs.
+🕸 Graph-Based Representations
+Applied to modeling microstructure networks, crack propagation paths, pore connectivity, and material interaction graphs.
 
-Time-Series Data Structures – For monitoring structural health, curing processes, sensor streams, and long-term performance tracking.
+⏱ Time-Series Data Structures
+Used for structural health monitoring, curing evolution, sensor streams, and long-term infrastructure performance tracking.
 
-Image Data Formats (PNG, TIFF, DICOM) – Crack detection, microstructure imaging (SEM, X-ray CT), and computer vision workflows.
+🖼 Image & Volumetric Data (PNG, TIFF, DICOM, 3D stacks)
+Essential for crack detection, SEM imaging, X-ray CT analysis, and computer vision workflows.
 
-Ontology & Semantic Data Models – Structured vocabularies for concrete materials and testing standards to ensure interoperability and FAIR data principles.
+📚 Ontologies & Semantic Data Models
+Controlled vocabularies and structured metadata schemas supporting interoperability, FAIR data principles, and cross-laboratory consistency.
 
-Materials Informatics Schemas – Emerging structured formats aligning with open science initiatives and digital twin frameworks.
+🧩 Materials Informatics Schemas
+Emerging standardized data models aligned with open science initiatives, digital twins, and automated ML pipelines.
 
 ---
 
