@@ -62,6 +62,7 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 - **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks.
 - **[Dacl10k](https://datasetninja.com/dacl10k)** - A labeled dataset of concrete damages.
+- **[SDNET2018](https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images)** - Annotated dataset of cracked and non-cracked concrete bridge decks, walls, pavements.
 
 ---
 
