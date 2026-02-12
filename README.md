@@ -93,8 +93,7 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 ## 📏 Standardization Initiatives
 
-- [XXXX](https://example.com) – XXX.
-- [XXXX](https://example.com) – XXX.
+- At present, there are no dedicated or standalone standards or specifications worldwide specifically for the application of machine learning in concrete engineering.
 
 ---
 
