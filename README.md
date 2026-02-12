@@ -57,7 +57,7 @@ You can:
 
 ### 4️⃣ Contributing
 If you would like to add new entries, please follow the guidelines in:
-👉 [Contribution Guidelines](CONTRIBUTING.md)
+👉 Please see our detailed [Contribution Guidelines](CONTRIBUTING.md)
 
 ---
 
@@ -121,14 +121,6 @@ If you would like to add new entries, please follow the guidelines in:
 
 - [XXXX](https://example.com) – XXX.
 - [XXXX](https://example.com) – XXX.
-
----
-
-## 🤝 Contributions
-
-We welcome community contributions!  
-
-Please see our detailed [Contribution Guidelines](CONTRIBUTING.md).
 
 ---
 
