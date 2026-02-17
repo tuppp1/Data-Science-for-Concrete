@@ -31,10 +31,8 @@ Welcome to **Awesome Data Science for Concrete Materials and Structures**!
 If you are new to this repository, here is a quick guide to help you get started:
 ### 1️⃣ Explore the Categories
 Browse the main sections:
-- 🔧 Tools & Software
 - 📊 Datasets
 - 📚 Publications
-- 🧪 Benchmarks
 Each section contains curated resources relevant to data-driven research in concrete science.
 
 ### 2️⃣ How to Use This Repository
