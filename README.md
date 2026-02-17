@@ -1,7 +1,7 @@
 
 Building on empiricism, theory, and computation, a new paradigm has emerged in concrete science — data-driven approaches, offering fresh perspectives and practical solutions to better understand the materials, process–structure–property–performance relationships in concrete materials and structures.
 
-> Contributions are very welcome — please  follow the guidelines [Contributions](### 3️⃣ Contributing) for details.
+> Contributions are very welcome — please follow the guidelines in the [Contributing](#contributing) section for details.
 > 
 The project is supported by:
 **RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
@@ -27,18 +27,18 @@ The project is supported by:
 
 Welcome to **Awesome Data Science for Concrete Materials and Structures**!
 If you are new to this repository, here is a quick guide to help you get started:
-### 1️⃣ Explore the Categories
+1️⃣ ### Explore the Categories
 Browse the main sections:
 - 📊 Datasets
 - 📚 Publications
 - 📘Educational Resources
-### 2️⃣ How to Use This Repository
+2️⃣ ### How to Use This Repository
 - Discover datasets for machine learning
 - Explore open-source tools
 - Find benchmarks for model comparison
 - Access educational materials
 - Contribute your own resources
-### 3️⃣ Contributing
+3️⃣ ### Contributing
 If you would like to add new entries, please follow the guidelines in:
 👉 Please see our detailed [Contribution Guidelines](CONTRIBUTION.md))
 
