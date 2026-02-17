@@ -116,7 +116,7 @@ The following benchmark categories are encouraged:
 
 - **🧱 Mechanical properties Prediction**
   Standard regression benchmark using publicly available datasets.
- -- AutoML ensemble (XGBoost + Extra Trees) predicts UHPC compressive strength with a test R² of 0.95.
+  – AutoML ensemble (XGBoost + Extra Trees) predicts UHPC compressive strength with a test R² of 0.95.
 - **🕳 Durability & Service-Life Prediction**
   Tasks including chloride diffusion, carbonation depth.
 - **🖼 Damage Detection (Image-based)**
