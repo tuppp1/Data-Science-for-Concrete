@@ -84,15 +84,15 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
-- **📊 Tabular Data (CSV, SQL)**  
+- **📊 Tabular data (CSV, SQL)**  
 
-- **🕸 Graph-Based Representations**  
+- **🕸 Graph-based representations**  
 
-- **⏱ Time-Series Data Structures**  
+- **⏱ Time-series data structures**  
 
-- **🖼 Image & Volumetric Data (PNG, TIFF)**  
+- **🖼 Image & volumetric data (PNG, TIFF)**  
 
-- **📚 Ontologies & Semantic Data Models**  
+- **📚 Ontologies & semantic data models**  
 
 ---
 
