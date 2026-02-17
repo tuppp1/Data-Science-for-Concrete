@@ -114,9 +114,9 @@ Waiting for contribution
 To enable fair comparison, reproducibility, and methodological transparency, benchmark tasks and evaluation protocols are essential in data-driven concrete research.
 The following benchmark categories are encouraged:
 
-- **🧱 Mechanical properties Prediction**
+- **🧱 Mechanical Properties Prediction**  
   Standard regression benchmark using publicly available datasets.
-  – AutoML ensemble (XGBoost + Extra Trees) predicts UHPC compressive strength with a test R² of 0.95.
+  - AutoML ensemble (XGBoost + Extra Trees) predicts UHPC compressive strength with a test R² of 0.95.
 - **🕳 Durability & Service-Life Prediction**
   Tasks including chloride diffusion, carbonation depth.
 - **🖼 Damage Detection (Image-based)**
