@@ -65,6 +65,8 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 - **[Dacl10k](https://datasetninja.com/dacl10k)** - A labeled dataset of concrete damages.
 - **[SDNET2018](https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images)** - Annotated dataset of cracked and non-cracked concrete bridge decks, walls, pavements.
 - **[PY-CrackDB](https://zenodo.org/records/16749554)** An database contains 569 high-resolution asphalt pavement images used for segmentation.
+- **[HighRPD](https://data-mendeley-com.tudelft.idm.oclc.org/datasets/sywswj7djj/1)** – A UAV-based road pavement distress dataset with 11,696 labeled images, annotated in YOLO format.
+- 
 ### Structural Experimental Databases (Tabular data)
 - **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database compiling 400+ reinforced concrete slab punching shear tests.
 - **[FRC Residual Strength Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database for FRC residual strength test data collection.
@@ -76,8 +78,8 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 > Peer-reviewed papers and preprints providing context and validation for datasets.
 > 
 - Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025. -**[PY-CrackDB](https://zenodo.org/records/16749554)**
-- He, J. et al., "HighRPD: A high-altitude drone dataset of road pavement distress", *Data in Brief*, 2025.
-- Flotzinger, J. et al., "dacl1k: Real-world bridge damage dataset putting open-source data to the test", *Engineering Applications of Artificial Intelligence*, 2024.
+- He, J. et al., "HighRPD: A high-altitude drone dataset of road pavement distress", *Data in Brief*, 2025. - **[HighRPD](https://data-mendeley-com.tudelft.idm.oclc.org/datasets/sywswj7djj/1)**
+- Flotzinger, J. et al., "dacl10k: Benchmark for Semantic Bridge Damage Segmentation", *In Proceedings of the IEEE/CVF winter conference on applications of computer vision*, 2024. - **[Dacl10k](https://datasetninja.com/dacl10k)**
 
 ---
 
