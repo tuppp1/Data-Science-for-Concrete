@@ -75,7 +75,7 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 > Peer-reviewed papers and preprints providing context and validation for datasets.
 > 
-- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025. **[PY-CrackDB](https://zenodo.org/records/16749554)**
+- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025. -**[PY-CrackDB](https://zenodo.org/records/16749554)**
 - He, J. et al., "HighRPD: A high-altitude drone dataset of road pavement distress", *Data in Brief*, 2025.
 - Flotzinger, J. et al., "dacl1k: Real-world bridge damage dataset putting open-source data to the test", *Engineering Applications of Artificial Intelligence*, 2024.
 
