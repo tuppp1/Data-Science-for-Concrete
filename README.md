@@ -60,10 +60,11 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 ---
 
 ## 📊 Datasets
-
+## Image-Based Damage Datasets (Image data)
 - **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks.
 - **[Dacl10k](https://datasetninja.com/dacl10k)** - A labeled dataset of concrete damages.
 - **[SDNET2018](https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images)** - Annotated dataset of cracked and non-cracked concrete bridge decks, walls, pavements.
+## Structural Experimental Databases (Tabular data)
 - **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database compiling 400+ reinforced concrete slab punching shear tests.
 - **[FRC Residual Strength Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database for FRC residual strength test data collection.
 - **[Corroded Prestressing Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database of tensile test data on corroded prestressing strands.
