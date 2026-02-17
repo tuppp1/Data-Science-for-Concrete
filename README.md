@@ -117,12 +117,11 @@ Waiting for contribution
 To enable fair comparison, reproducibility, and methodological transparency, benchmark tasks and evaluation protocols are essential in data-driven concrete research.
 The following benchmark categories are encouraged:
 
-- **🧱 Compressive Strength Prediction**
-  Standard regression benchmark using publicly available datasets (e.g., UCI Concrete dataset).
+- **🧱 Mechanical properties Prediction**
+  Standard regression benchmark using publicly available datasets.
 - **🕳 Durability & Service-Life Prediction**
-  Tasks including chloride diffusion, carbonation depth, freeze–thaw resistance.
+  Tasks including chloride diffusion, carbonation depth.
 - **🖼 Crack Detection (Image Classification / Segmentation)**
-  Using datasets such as SDNET2018, Crack500, Dacl10k.
 - **📊 Mix Design Optimization**
   Multi-objective optimization benchmark (strength, cost, CO₂ footprint).
 - **🏗 Structural Health Monitoring (Time-Series)**
