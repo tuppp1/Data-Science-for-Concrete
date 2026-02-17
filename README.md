@@ -100,7 +100,7 @@ The following formats and conceptual frameworks are commonly used in materials i
 
 ## 📏 Standardization Initiatives
 
-Waiting for contributon
+Waiting for contribution
 
 ---
 
