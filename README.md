@@ -43,10 +43,7 @@ Browse the main sections:
 If you would like to add new entries, please follow the guidelines in:
 👉 Please see our detailed [Contribution Guidelines](CONTRIBUTION.md))
 
-
 ---
-
-
 
 ## 🔧 Tools & Software
 
@@ -85,7 +82,8 @@ The following formats and conceptual frameworks are commonly used in materials i
 - **🕸 Graph-based representations**  
 - **⏱ Time-series data structures**  
 - **🖼 Image & volumetric data (PNG, TIFF)**  
-- **📚 Ontologies & semantic data models**  
+- **📚 Ontologies & semantic data models**
+- **📍 Point Cloud Data (PLY, LAS, XYZ, E57)**  
 
 ---
 
