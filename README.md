@@ -1,7 +1,7 @@
 
 Building on empiricism, theory, and computation, a new paradigm has emerged in concrete science — data-driven approaches, offering fresh perspectives and practical solutions to better understand the materials, process–structure–property–performance relationships in concrete materials and structures.
 
-> Contributions are welcome. Please see the [Contributing](#contributing) section for details.
+> Contributions are welcome. Please see the [Contributing](#3️⃣-contributing) section for details.
 > 
 The project is supported by:
 **RILEM TC-315-DCS**;  **ACI-135**;  **ACF-TC-AICE**
