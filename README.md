@@ -126,8 +126,8 @@ At present, there are no dedicated or standalone standards or specifications wor
 
 ## 📘 Educational Resources
 
-- [AI in Construction & AEC Training](https://civils.ai/ai-in-construction-training-course) – An online course focused on AI applications in the architecture, engineering, and construction (AEC) industry. It covers topics such as machine learning applications in field engineering, automation, and smart construction technologies.
-- [Artificial Intelligence (AI) applications for Civil Engineer](https://www.udemy.com/course/artificial-intelligence-ai-applications-for-civil-engineer/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.BeNeLux_Subs&utm_source=google&utm_medium=paid-search&portfolio=BeNeLux&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894903860&gbraid=0AAAAADROdO3SpVJrFNLKeeWqmTd-8DWeG&gclid=CjwKCAiAkbbMBhB2EiwANbxtbfVs84wEJtLVhs4B1LgaC6RxMmi4I-SdDU5U9MkLgcrUsKOoDNgnPhoCq8cQAvD_BwE) – A course provides an introductory overview of artificial intelligence applications in civil engineering, covering areas such as structural design, construction management, geotechnical analysis, smart infrastructure, and sustainable urban development.
+- [AI in Construction & AEC Training](https://civils.ai/ai-in-construction-training-course) – Online course on AI applications in the AEC industry, covering ML, automation, and smart construction.
+- [Artificial Intelligence (AI) applications for Civil Engineer](https://www.udemy.com/course/artificial-intelligence-ai-applications-for-civil-engineer/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.BeNeLux_Subs&utm_source=google&utm_medium=paid-search&portfolio=BeNeLux&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894903860&gbraid=0AAAAADROdO3SpVJrFNLKeeWqmTd-8DWeG&gclid=CjwKCAiAkbbMBhB2EiwANbxtbfVs84wEJtLVhs4B1LgaC6RxMmi4I-SdDU5U9MkLgcrUsKOoDNgnPhoCq8cQAvD_BwE) – Introductory course on AI in civil engineering applications.
 - Plevris, V. et al., 2023. Artificial intelligence and machine learning techniques for civil engineering. IGI global. ISBN-10: 1668456435.
 
 ---
