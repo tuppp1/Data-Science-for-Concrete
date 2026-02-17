@@ -82,7 +82,6 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 ## 🧱 Data Structures
 
-Well-designed data structures are fundamental to **reproducible, interoperable, and scalable** data-driven research in concrete materials and structures.  
 The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
 - **📊 Tabular Data (CSV, SQL)**  
