@@ -85,13 +85,13 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 Well-designed data structures are fundamental to **reproducible, interoperable, and scalable** data-driven research in concrete materials and structures.  
 The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
-- **📊 Tabular Data (CSV, Parquet, SQL)**  
+- **📊 Tabular Data (CSV, SQL)**  
 
 - **🕸 Graph-Based Representations**  
 
 - **⏱ Time-Series Data Structures**  
 
-- **🖼 Image & Volumetric Data (PNG, TIFF, DICOM, 3D stacks)**  
+- **🖼 Image & Volumetric Data (PNG, TIFF)**  
 
 - **📚 Ontologies & Semantic Data Models**  
 
