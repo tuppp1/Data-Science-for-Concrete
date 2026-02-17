@@ -121,7 +121,7 @@ The following benchmark categories are encouraged:
   Standard regression benchmark using publicly available datasets.
 - **🕳 Durability & Service-Life Prediction**
   Tasks including chloride diffusion, carbonation depth.
-- **🖼 Crack Detection (Image Classification / Segmentation)**
+- **🖼 Damage Detection (Image-based)**
 - **📊 Mix Design Optimization**
   Multi-objective optimization benchmark.
 - **🏗 Structural Health Monitoring (Time-Series)**
