@@ -123,7 +123,7 @@ The following benchmark categories are encouraged:
   Tasks including chloride diffusion, carbonation depth.
 - **🖼 Crack Detection (Image Classification / Segmentation)**
 - **📊 Mix Design Optimization**
-  Multi-objective optimization benchmark (strength, cost, CO₂ footprint).
+  Multi-objective optimization benchmark.
 - **🏗 Structural Health Monitoring (Time-Series)**
   Damage detection or anomaly detection benchmarks.
 
