@@ -11,7 +11,6 @@ The project is supported by:
 
 ## 📂 Contents
 - [🚀 Getting Started](#-getting-started)
-- [🎓 Tutorials & Example Workflows](#-tutorials--example-workflows)
 - [🔧 Tools & Software](#-tools--software)
 - [📊 Datasets](#-datasets)
 - [📚 Publications](#-publications) *(linked to datasets)*
@@ -44,11 +43,6 @@ Each section contains curated resources relevant to data-driven research in conc
 ### 3️⃣ Contributing
 If you would like to add new entries, please follow the guidelines in:
 👉 Please see our detailed [Contribution Guidelines](CONTRIBUTION.md))
-
----
-## 🎓 Tutorials & Example Workflows
-
-This section provides step-by-step tutorials and practical workflows demonstrating how to use datasets and tools listed in this repository.
 
 
 ## 🔧 Tools & Software
