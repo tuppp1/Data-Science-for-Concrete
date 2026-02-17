@@ -32,8 +32,7 @@ If you are new to this repository, here is a quick guide to help you get started
 Browse the main sections:
 - 📊 Datasets
 - 📚 Publications
-Each section contains curated resources relevant to data-driven research in concrete science.
-
+- 📘Educational Resources
 ### 2️⃣ How to Use This Repository
 - Discover datasets for machine learning
 - Explore open-source tools
@@ -83,13 +82,9 @@ If you would like to add new entries, please follow the guidelines in:
 The following formats and conceptual frameworks are commonly used in materials informatics and concrete science:
 
 - **📊 Tabular data (CSV, SQL)**  
-
 - **🕸 Graph-based representations**  
-
 - **⏱ Time-series data structures**  
-
 - **🖼 Image & volumetric data (PNG, TIFF)**  
-
 - **📚 Ontologies & semantic data models**  
 
 ---
