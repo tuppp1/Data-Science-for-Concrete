@@ -64,7 +64,6 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 - **[Concrete-Crack-500](https://www.kaggle.com/datasets/pauldavid22/crack50020220509t090436z001/data)** - A labeled dataset of concrete surface cracks.
 - **[Dacl10k](https://datasetninja.com/dacl10k)** - A labeled dataset of concrete damages.
 - **[SDNET2018](https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images)** - Annotated dataset of cracked and non-cracked concrete bridge decks, walls, pavements.
-<a id="pycrackdb-dataset"></a>
 - **[PY-CrackDB](https://zenodo.org/records/16749554)** An database contains 569 high-resolution asphalt pavement images used for segmentation.
 ### Structural Experimental Databases (Tabular data)
 - **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database compiling 400+ reinforced concrete slab punching shear tests.
@@ -76,7 +75,7 @@ This section provides step-by-step tutorials and practical workflows demonstrati
 
 > Peer-reviewed papers and preprints providing context and validation for datasets.
 > 
-- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025. [Link](#pycrackdb-dataset)
+- Ramírez-Villanueva, F.G. et al., "PY-CrackDB: A Pavement Crack Dataset from Paraguayan Roads for Context-Aware Computer Vision Models", *Data in Brief*, 2025. **[PY-CrackDB](https://zenodo.org/records/16749554)**
 - He, J. et al., "HighRPD: A high-altitude drone dataset of road pavement distress", *Data in Brief*, 2025.
 - Flotzinger, J. et al., "dacl1k: Real-world bridge damage dataset putting open-source data to the test", *Engineering Applications of Artificial Intelligence*, 2024.
 
