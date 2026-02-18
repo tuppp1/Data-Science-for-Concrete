@@ -66,8 +66,8 @@ If you would like to add new entries, please follow the guidelines:
 - **[Corroded Prestressing Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database of tensile test on corroded prestressing strands.
 ### Ontology Datasets
 - **[LeBeDigital](https://bamresearch.github.io/LebeDigital/newest/)** - Concrete lifecycle ontology integrating production, testing, optimization, and simulation data.
-- **[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - An open-access fib database for FRC residual strength test data collection.
-- **[Corroded Prestressing Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database of tensile test on corroded prestressing strands.
+- **[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - Digital Construction ontology for building materials, properties, and BIM interoperability.
+- **[Material properties ontology](http://bimerr.iot.linkeddata.es/def/material-properties#)** - Ontology for building materials, components, and renovation property data.
 ---
 
 ## 📚 Publications
