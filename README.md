@@ -121,6 +121,7 @@ Waiting for contribution
 ---
 ## 🧭 Roadmap
 To ensure transparency and long-term sustainability, the following development directions are planned:
+Waiting for discussion
 
 ## 📁 Similar Compilations
 
