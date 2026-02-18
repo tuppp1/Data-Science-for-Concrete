@@ -117,14 +117,7 @@ Waiting for contribution
 
 ## 🧪 Benchmarks
 
-To enable fair comparison, reproducibility, and methodological transparency, benchmark tasks and evaluation protocols are essential in data-driven concrete research.
-The following benchmark categories are encouraged:
-
-- **🧱 Mechanical properties prediction**  
-- **🕳 Durability & service-life prediction**
-- **🖼 Damage detection (image-based)**
-- **📊 Mix design optimization**
-- **🏗 Structural health monitoring (time-series)**
+Waiting for contribution
 
 ---
 ## 🧭 Roadmap
