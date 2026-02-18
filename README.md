@@ -121,14 +121,10 @@ To enable fair comparison, reproducibility, and methodological transparency, ben
 The following benchmark categories are encouraged:
 
 - **🧱 Mechanical properties prediction**  
-  Standard regression benchmark using publicly available datasets.
 - **🕳 Durability & service-life prediction**
-  Tasks including chloride diffusion, carbonation depth.
 - **🖼 Damage detection (image-based)**
 - **📊 Mix design optimization**
-  Multi-objective optimization benchmark.
 - **🏗 Structural health monitoring (time-series)**
-  Damage detection or anomaly detection benchmarks.
 
 ---
 ## 🧭 Roadmap
