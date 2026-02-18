@@ -64,10 +64,6 @@ If you would like to add new entries, please follow the guidelines:
 - **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database with 400+ concrete slabs punching shear tests.
 - **[FRC Residual Strength Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database for FRC residual strength test data collection.
 - **[Corroded Prestressing Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database of tensile test on corroded prestressing strands.
-### Ontology Datasets
-- **[LeBeDigital](https://bamresearch.github.io/LebeDigital/newest/)** - Concrete lifecycle ontology integrating production, testing, optimization, and simulation data.
-- **[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - Digital Construction ontology for building materials, properties, and BIM interoperability.
-- **[Material properties ontology](http://bimerr.iot.linkeddata.es/def/material-properties#)** - Ontology for building materials, components, and renovation property data.
 ---
 
 ## 📚 Publications
@@ -89,6 +85,10 @@ The following formats and conceptual frameworks are commonly used in materials i
 - **⏱ Time-series data structures**  
 - **🖼 Image & volumetric data (PNG, TIFF)**  
 - **📚 Ontologies & semantic data models**
+- ### Ontology Datasets
+- **[LeBeDigital](https://bamresearch.github.io/LebeDigital/newest/)** - Concrete lifecycle ontology integrating production, testing, optimization, and simulation data.
+- **[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - Digital Construction ontology for building materials, properties, and BIM interoperability.
+- **[Material properties ontology](http://bimerr.iot.linkeddata.es/def/material-properties#)** - Ontology for building materials, components, and renovation property data.
 - **📍 Point Cloud Data (PLY, LAS, XYZ, E57)**  
 
 ---
