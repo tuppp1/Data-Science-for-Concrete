@@ -111,7 +111,7 @@ Waiting for contribution
 
 - [AI in Construction & AEC Training](https://civils.ai/ai-in-construction-training-course) – Online course on AI applications, covering ML, automation, and smart construction.
 - [Artificial Intelligence (AI) applications for Civil Engineer](https://www.udemy.com/course/artificial-intelligence-ai-applications-for-civil-engineer/?utm_campaign=Search_DSA_Beta_Prof_la.EN_cc.BeNeLux_Subs&utm_source=google&utm_medium=paid-search&portfolio=BeNeLux&utm_audience=mx&utm_tactic=nb&utm_term=&utm_content=g&funnel=&test=&gad_source=1&gad_campaignid=22894903860&gbraid=0AAAAADROdO3SpVJrFNLKeeWqmTd-8DWeG&gclid=CjwKCAiAkbbMBhB2EiwANbxtbfVs84wEJtLVhs4B1LgaC6RxMmi4I-SdDU5U9MkLgcrUsKOoDNgnPhoCq8cQAvD_BwE) – Introductory course on AI in civil engineering applications.
-
+- [Open Science: Sharing Your Research with the World](https://learningforlife.tudelft.nl/open-science-sharing-your-research-with-the-world/) – Guideline for sharing data.
 ---
 
 ## 🧪 Benchmarks
