@@ -85,10 +85,10 @@ The following formats and conceptual frameworks are commonly used in materials i
 - **⏱ Time-series data structures**  
 - **🖼 Image & volumetric data (PNG, TIFF)**  
 - **📚 Ontologies & semantic data models**
-  ### Ontology
-  **[LeBeDigital](https://bamresearch.github.io/LebeDigital/newest/)** - Concrete lifecycle ontology.
-  **[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - Digital Construction ontology.
-  **[Material properties ontology](http://bimerr.iot.linkeddata.es/def/material-properties#)** - Ontology for building materials.
+  -Ontology
+  -[LeBeDigital](https://bamresearch.github.io/LebeDigital/newest/)** - Concrete lifecycle ontology.
+  -[Digital Construction - BuildingMaterials](https://digitalconstruction.github.io/BuildingMaterials/latest/)** - Digital Construction ontology.
+  -[Material properties ontology](http://bimerr.iot.linkeddata.es/def/material-properties#)** - Ontology for building materials.
 - **📍 Point Cloud Data (PLY, LAS, XYZ, E57)**  
 
 ---
