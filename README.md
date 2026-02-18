@@ -61,7 +61,7 @@ If you would like to add new entries, please follow the guidelines:
 - **[PY-CrackDB](https://zenodo.org/records/16749554)** An database contains 569 high-resolution asphalt pavement images used for segmentation.
 - **[HighRPD](https://data-mendeley-com.tudelft.idm.oclc.org/datasets/sywswj7djj/1)** – A UAV-based road pavement distress dataset with 11,696 labeled images, annotated in YOLO format.
 ### Structural Experimental Databases (Tabular data)
-- **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database with 400+ reinforced concrete slab punching shear tests.
+- **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database with 400+ concrete slabs punching shear tests.
 - **[FRC Residual Strength Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database for FRC residual strength test data collection.
 - **[Corroded Prestressing Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database of tensile test on corroded prestressing strands.
 ### Ontology Datasets
