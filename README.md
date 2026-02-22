@@ -48,8 +48,7 @@ If you would like to add new entries, please follow the guidelines below:
 👉 [Contribution Guidelines](./CONTRIBUTION.md)
 
 A step-by-step tutorial video demonstrating how to create a pull request and add new information is available here:
-
-🎥 [Pull Request Tutorial Video](https://drive.google.com/file/d/1okv_g4mqHDMApYdXkd3HOn3DWFXGar-0/view?usp=sharing)
+-🎥 [Pull Request Tutorial Video](https://drive.google.com/file/d/1okv_g4mqHDMApYdXkd3HOn3DWFXGar-0/view?usp=sharing)
 ---
 
 ## 🔧 Tools & Software
