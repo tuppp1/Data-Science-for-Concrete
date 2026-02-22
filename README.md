@@ -66,6 +66,7 @@ A step-by-step tutorial video demonstrating how to create a pull request and add
 - **[SDNET2018](https://www.kaggle.com/datasets/aniruddhsharma/structural-defects-network-concrete-crack-images)** - Annotated dataset of cracked and non-cracked concrete bridge decks, walls, pavements.
 - **[PY-CrackDB](https://zenodo.org/records/16749554)** An database contains 569 high-resolution asphalt pavement images used for segmentation.
 - **[HighRPD](https://data-mendeley-com.tudelft.idm.oclc.org/datasets/sywswj7djj/1)** – A UAV-based road pavement distress dataset with 11,696 labeled images, annotated in YOLO format.
+- **[Crack-seg](https://www.kaggle.com/datasets/lakshaymiddha/crack-segmentation-dataset?resource=download-directory)** – Crack segmentation dataset.
 ### Structural Experimental Databases (Tabular data)
 - **[Punching shear database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database with 400+ concrete slabs punching shear tests.
 - **[FRC Residual Strength Database](https://www.fib-international.org/commissions/databases.html)** - An open-access fib database for FRC residual strength test data collection.
